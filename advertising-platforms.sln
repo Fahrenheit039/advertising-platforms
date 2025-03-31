@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advertising-platforms", "advertising-platforms\advertising-platforms.csproj", "{6DEF159C-A015-4361-8760-50EFC2A21FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advertising-platforms.Tests", "advertising-platforms.Tests\advertising-platforms.Tests.csproj", "{0BC2D4E3-A2E2-4B97-ACFD-4174D4B6C141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DEF159C-A015-4361-8760-50EFC2A21FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEF159C-A015-4361-8760-50EFC2A21FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEF159C-A015-4361-8760-50EFC2A21FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEF159C-A015-4361-8760-50EFC2A21FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC2D4E3-A2E2-4B97-ACFD-4174D4B6C141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC2D4E3-A2E2-4B97-ACFD-4174D4B6C141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC2D4E3-A2E2-4B97-ACFD-4174D4B6C141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC2D4E3-A2E2-4B97-ACFD-4174D4B6C141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001A3362-6151-4721-95E6-3C0255F0B43D}
+	EndGlobalSection
+EndGlobal

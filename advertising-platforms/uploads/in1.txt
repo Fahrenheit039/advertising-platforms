@@ -1,0 +1,10 @@
+Яндекс.Директ:/ru
+Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik
+Газета уральских москвичей:/ru/msk,/ru/permobl,/ru/chelobl
+Челябинск:/ru/chelobl
+Пермь:/ru/permobl
+Москва:/ru/msk
+Крутая реклама:/ru/svrd
+Москва-q:/ru/q/msk
+Москва-w:/ru/msk/w
+
